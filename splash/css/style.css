@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins";
+  color: #cacbcf;
+}
+
+/* Sections */
+section {
+  width: 60%;
+  display: inline-block;
+  margin-left: 1%;
+}
+.section2 {
+  text-align: center;
+  background-color: #2a2727;
+}
+.section3 {
+  width: 60%;
+  display: inline-block;
+  margin-left: 20%;
+}
+
+/* Spaces */
+.space {
+  padding: 1em;
+}
+.space2 {
+  padding: 1rem;
+}

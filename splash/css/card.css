@@ -1,0 +1,39 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  background: white;
+  color: #cacbcf;
+}
+
+.title {
+  color: #6a6b6d;
+  font-size: 18px;
+}
+
+.cover-btn {
+  background-color: #87ba4f;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  outline: 0;
+  display: inline-block;
+  width: 95%;
+  padding: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.cover-btn:hover {
+  background-color: #587d38;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  outline: 0;
+  display: inline-block;
+  width: 95%;
+  padding: 8px;
+}
