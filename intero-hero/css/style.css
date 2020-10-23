@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Other Tags */
+
+.content {
+  margin-right: 20px;
+}
+
+.space {
+  padding: 2rem;
+}
+
+.header {
+  left: 1rem;
+}
+
+.white-txt {
+  color: white;
+}
+
+.slideshow-container {
+  position: relative;
+  color: white;
+  background: linear-gradient(to right, #8a2387, #e94057, #f27121);
+}
+
+.mySlides {
+  display: none;
+  padding: 80px;
+  text-align: center;
+}
